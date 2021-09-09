@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    border:1px solid black;
+}
+
+section{
+    float:left;
+    width:100%;
+}
+
+h1{
+    text-align:center;
+}
+
+.slots{
+    margin:auto 1% auto 16.5%;
+    text-align:center;
+    height:200px;
+    width:10%;
+
+}
+
+#feelinglucky{
+    background-color:gold;
+    padding:1%;
+    font-weight:bolder;
+    font-size:36px;
+    border-radius: 50px;
+}
+
+#feelingluckier{
+    background-color:gold;
+    padding:1%;
+    font-weight:bolder;
+    font-size:36px;
+    border-radius: 50px;
+}
+
+.gainorloss{
+    width:10%;
+    text-align:center;
+    margin-left:44%;
+}
+
